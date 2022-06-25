@@ -10,8 +10,8 @@
           <li><a href="https://github.com/marcusvscostaa/aulao_tech_academy.git">Aulão tech Academy StartSe</a></li>
         </ul>
         <a href="https://github.com/marcusvscostaa">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvscostaa&layout=compact&langs_count=7&theme=dracula"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvscostaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <a/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvscostaa&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcusvscostaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <a/>
           </div>
           <div>
             <h1> Minhas redes sociais:</h1>
