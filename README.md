@@ -2,9 +2,9 @@ Olá, sou o Marcus Vinicius, seja bem vindo ao meu README, aqui a baixo tem algu
 
 <div>
   <a href="https://github.com/marcusvscostaa ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?marcusvscostaa
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvscostaa
     &layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?marcusvscostaa
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvscostaa
     &show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
