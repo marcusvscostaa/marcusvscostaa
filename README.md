@@ -1,4 +1,4 @@
-<div style="font-size: 1em"> Olá, sou o Marcus Vinicius, seja bem vindo ao meu README,<br>
+<div style="font-size: 1em; border: 2px solid blue;"> Olá, sou o Marcus Vinicius, seja bem vindo ao meu README,<br>
   aqui a baixo tem algumas infomações sobre minha atividade aqui no GitHub</dvi>
   
   <div>
