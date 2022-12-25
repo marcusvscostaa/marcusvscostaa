@@ -33,6 +33,6 @@
 <a href="https://www.linkedin.com/in/marcus-costa-5b740a127" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </div>
     </div>
-    ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-    ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+    ![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+    ![GitHub Snake dark](github-contribution-grid-snake.svg#gh-dark-mode-only)
 </body>
