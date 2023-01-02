@@ -10,7 +10,6 @@
       <li><a href="https://newsletter-singup-serve.onrender.com/">Formulário de Incrição de Email com API do mailchimp</a></li>
       <li><a href="https://listday.onrender.com/">Lista de tarefas simples com Nodejs e EJS</a></li>
       <li><a href="https://blog-v82n.onrender.com">Blog com CRUD usando mongoBD, Nodejs e EJS</a></li>
-
     </ul>
     <div>
       <h3>Estou aprendendo:</h3>
