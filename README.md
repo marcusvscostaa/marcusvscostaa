@@ -4,6 +4,8 @@
       fique a vontade para explorar os meus respositórios.</p>
     <h3>Aqui a baixo estão alguns dos meus projetos:</h3>
     <ul>
+      <li><a href="https://github.com/marcusvscostaa/test-ChatGPT">Usando a API do chatGPT com ReactJS</a></li>
+      <li><a href="https://github.com/marcusvscostaa/blogJS">Blog com EJS e nodeJs, usando CRUD</a></li>
       <li><a href="https://github.com/marcusvscostaa/Media-de-Idade-Python.git">Média de idade em Python</a></li>
       <li><a href="https://github.com/marcusvscostaa/sistema-solar.git">Site sistema solar</a></li>
       <li><a href="https://github.com/marcusvscostaa/aulao_tech_academy.git">Aulão tech Academy StartSe</a></li>
